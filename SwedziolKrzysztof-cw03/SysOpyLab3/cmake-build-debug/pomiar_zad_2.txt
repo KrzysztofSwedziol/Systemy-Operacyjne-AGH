@@ -1,0 +1,2 @@
+Time used for single character: 0.000061 seconds
+Time used for block: 0.000011 seconds
