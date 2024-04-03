@@ -1,2 +1,0 @@
-Processes: 10, Width: 0.000500, Time: 1.367000 ms
-Processes: 100, Width: 0.000000, Time: 7702.388000 ms
