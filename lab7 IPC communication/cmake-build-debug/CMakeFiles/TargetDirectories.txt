@@ -1,3 +1,0 @@
-/home/krzysztof/CLionProjects/lab7 IPC communication/cmake-build-debug/CMakeFiles/lab7_IPC_communication.dir
-/home/krzysztof/CLionProjects/lab7 IPC communication/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/krzysztof/CLionProjects/lab7 IPC communication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
