@@ -1,0 +1,3 @@
+/home/krzysztof/CLionProjects/lab11 sockets1/cmake-build-debug/CMakeFiles/lab11_sockets1.dir
+/home/krzysztof/CLionProjects/lab11 sockets1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/krzysztof/CLionProjects/lab11 sockets1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
