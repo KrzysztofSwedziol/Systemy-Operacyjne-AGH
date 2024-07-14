@@ -1,3 +1,0 @@
-/home/krzysztof/CLionProjects/SysOpy/cmake-build-debug/CMakeFiles/SysOpy.dir
-/home/krzysztof/CLionProjects/SysOpy/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/krzysztof/CLionProjects/SysOpy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
