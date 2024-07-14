@@ -1,3 +1,0 @@
-/home/krzysztof/CLionProjects/SwedziolKrzysztof-cw05/cmake-build-debug/CMakeFiles/SwedziolKrzysztof_cw05.dir
-/home/krzysztof/CLionProjects/SwedziolKrzysztof-cw05/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/krzysztof/CLionProjects/SwedziolKrzysztof-cw05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
