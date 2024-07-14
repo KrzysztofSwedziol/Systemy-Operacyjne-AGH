@@ -1,3 +1,0 @@
-/home/krzysztof/CLionProjects/lab10 threads synchronization/cmake-build-debug/CMakeFiles/lab10_threads_synchronization.dir
-/home/krzysztof/CLionProjects/lab10 threads synchronization/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/krzysztof/CLionProjects/lab10 threads synchronization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
